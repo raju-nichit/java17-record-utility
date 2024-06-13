@@ -1,4 +1,4 @@
-package com.shivay.record_update_demo;
+package com.shivay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
